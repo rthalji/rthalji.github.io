@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+.aqtn, .eqtn {
+  background-color: #eee;
+  padding: 3em;
+  border: 5px solid;
+  border-color: #555;
+  font-size: 1em;
+  height: 50em;
+}
+.aqtn {
+  direction: rtl;
+  text-align: right;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.eqtn {
+  direction: ltr;
+  text-align: left;
+  font-family: sans-serif;
+}
+.radio-container {
+  background-color: gray;
+  padding: .2em;
+  margin: .2em;
+  text-align: left;
+}
+td {
+  padding-right: 1em;
+  padding-left: 1em;
+}
+.tdr {
+  width: 2em;
+  padding: .1em;
+  text-align: left;
+}
+.btn1 {
+  color: white;
+  background-color: #333;
+  width: 5em;
+  padding: .3em;
+  border-radius: 1em 0 1em 0;
+  font-weight: bold;
+  font-size: 1.2em;
+}
