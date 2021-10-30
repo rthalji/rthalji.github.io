@@ -1,0 +1,334 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  background-image: url("./images/bkgs/KwalaLumpur.jpg");
+  font-weight: bold;
+}
+.abody {
+	direction: rtl;
+	background-image: url("./images/bkgs/KwalaLumpur.jpg");
+}
+footer {
+  text-align: center;
+  background-color: #555;
+  color: white;
+  padding: 1em;
+}
+
+ul.inline li {
+  display: inline;
+  padding: .1em .3em;
+  margin-top: .1em;
+  color: white;
+  background-color: darkgreen;
+  border-radius: .5em 0em .8em 0em;
+  font-family: Segoe;
+  font-weight: bold;
+  font-size: .8em;
+}
+ul.inline a {
+  text-decoration: none;
+  color: white;
+}
+h1 {
+  text-align: center;
+  font-size: 2vw;
+  background-color: olive;
+  color: white;
+  border-radius: 15px 0 0 0;
+  padding: 0 .3em;
+  font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+h2 {
+  font-size: 1.6vw;
+  background-color: darkkhaki;
+  color: black;
+  border-radius: 15px 0 0 0;
+  padding: .3em;
+  font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+h3 {
+  font-size: 1.2vw;
+  background-color: darkslategray;
+  color: white;
+  border-radius: 15px 0 0 0;
+  padding: 0 .4em;
+  font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+td {
+	text-align: right;
+}
+
+.p-table-container {
+	background-color: rgba(50,50,50,0.20);
+	width: 90%;
+	margin: auto;
+}
+
+.p-table {
+	direction: rtl;
+	font-family: Arial;
+	font-weight: bold;
+	background-color: rgba(250, 250, 170, 0.80)
+}
+
+.p-table td {
+	padding: .2em 1em .2em 1em;
+	border: 1px solid;
+}
+
+.col-s {
+	border: 1px solid gray;
+	padding: 1em;
+}
+
+
+.p-link {
+	font-size: 1em;
+	font-weight: bold;
+	font-family: Arial, "PT Heading";
+	color: white;
+	background-color: #555;
+	padding: .3em;
+    margin: 1em;
+    border-radius: 1em 0 1em 0;
+}
+
+
+
+/* Create three unequal columns that floats next to each other */
+* {
+  box-sizing: border-box;
+}
+
+.col-left {
+  float: left;
+  width: 20%;
+  padding: 5px;
+}	
+
+.col-middle {
+  float: left;
+  width: 60%;
+  padding: 10px;
+  min-height: 300px; /* Should be removed. Only for demonstration */
+  background-color: rgba(255, 255, 255, 0.80);		
+}	
+	
+.col-right {
+  float: left;
+  width: 20%;
+  padding: 5px;
+}	
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  body {
+    font-size: .7em;
+  }
+  h1 {
+	font-size: 1.8em;		
+	font-weight: bold;
+  }
+  h2 {
+	font-size: 1.5em;		
+	font-weight: bold;
+  }
+  h3 {
+	font-size: 1.2em;		
+	font-weight: bold;
+  }
+  .col-left {
+    width: 100%;
+	max-height: 15em;
+	overflow-y: scroll;
+  }
+  .col-middle {
+    width: 100%;
+  }
+  .col-right {
+    width: 100%;
+  }	
+  .vid-footer {}
+}
+/* End Three Unequal Columns CSS ...................... */
+
+
+/*-- From Adab.CSS ----------------------------------------------------------------------------------------------------------------*/
+.alf-h {
+	text-align: center;
+}
+
+.nav-div {
+	float: right; 
+	padding: .3em; 
+	margin: .1em;
+}
+
+.nav-ul {
+	text-align: center;
+}
+
+.nav-ul li {
+	display: inline-block;
+	padding: .1em;
+	margin-bottom: .5em;
+}
+.nav-ul a {
+	text-decoration: none;
+	font-weight: bold;
+	font-size: .7em;
+	color: white;
+	background-color: #555;
+	border-radius: 1em 0 1em 0;
+	padding: .4em;
+}
+
+.alf-wrapper {
+  background-color: rgba(255, 255, 255, .7);
+  width: 95%;
+  margin: auto;
+  padding-top: 1em;
+  padding-bottom: 5em;
+  clear: both;
+}
+.alf-nav-wrapper {
+	background-color: #efc;
+	max-height: 6.5em;
+	overflow-y: auto;
+	width: 95%;
+	margin: auto;
+}
+
+.h2-summary {
+	text-align: center;
+}
+
+.nabtha-div {
+	background-color: rgba(249,244,244,0.90);
+	padding: 5em;
+	font-weight: bold;
+}
+
+/*----------------------------------------------------------------------------------------------------------------------*/
+.nav-wrapper-a, .nav-wrappr-e {
+	background-color: rgba(255,255,255,0.7);
+	width: 95%;
+	margin: auto;
+    text-align: center;
+    direction: rtl;
+}
+
+.nav-wrapper-a {
+    direction: rtl;
+}
+
+.nav-wrapper-e {
+    direction: ltr;
+}
+
+.nav-ul0 {
+	text-align: center;
+}
+
+.nav-ul0 li {
+	display: inline-block;
+	padding: .1em;
+	margin-bottom: .5em;
+}
+.nav-ul0 a {
+	text-decoration: none;
+	font-weight: bold;
+	font-size: .7em;
+	color: white;
+	background-color: darkolivegreen;
+	border-radius: 1em 0 1em 0;
+	padding: .4em;
+}
+/*-------------------------------------------------------------------------------*/
+.ar-div {
+  direction: rtl;
+  text-align: right;
+  font-weight: bold;
+  padding-bottom: 3em;
+}
+.pic-right {
+  float: right;
+  padding: 1em;
+  width: 100%;
+  max-width: 135px;
+  height: auto;
+}
+.pic-left {
+  float: left;
+  padding: 1em;
+  width: 100%;
+  max-width: 135px;
+  height: auto;
+}
+.vid-footer-img {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+}
+#table-cve {
+	text-emphasis: left;
+	direction: ltr;
+}
+
+
+.nav-wrapper-a, .nav-wrapper-e {
+	background-color: rgba(255,255,255,0.7);
+	width: 95%;
+	margin: auto;
+    text-align: center;
+    direction: rtl;
+}
+
+.nav-wrapper-a {
+    direction: rtl;
+}
+
+.nav-wrapper-e {
+    direction: ltr;
+}
+
+.nav-ul0 {
+	text-align: center;
+}
+
+.nav-ul0 li {
+	display: inline-block;
+	padding: .1em;
+	margin-bottom: .5em;
+}
+.nav-ul0 a {
+	text-decoration: none;
+	font-weight: bold;
+	font-size: .7em;
+	color: white;
+	background-color: darkolivegreen;
+	border-radius: 1em 0 1em 0;
+	padding: .4em;
+}
+.srv-rec-a, .srv-rec-e {
+	color: white; 
+	background-color: #555; 
+	border-radius: 0; 
+	font-family: "Helvetica";
+	font-weight: bold;
+	padding: .5em;
+}
+.srv-rec-a {
+	padding-right: 2em;
+}
+.srv-rec-e {
+	padding-left: 2em;
+}

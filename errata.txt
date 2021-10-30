@@ -1,0 +1,21 @@
+Eng
+.....All Pages add padding-top
+.....riad-thalji-cv add lang Add h1
+.....news > centralize photos
+.....profile > dots
+.....contact us > remove website url
+.....web-design-development.html > lang, remove "by Thalji.net"
+.....PMP Practice Question > cap to small, lang tab, trainer pic
+.....PMP Process Game > add menu white background, add lang, trainer picture
+.....Mind map example > lang doubled in graph
+
+======================================================
+Arabic
+.....riad-thalji-cv  h2 > rtl and center
+.....video > correct width, Eng button does not work
+.....How to buy > eng tab
+menu > join items: دورات بي إم بي	دورات أون لاين	اسئلة	لعبة	مثال wbs		دورة html
+.....context-Level-Diagram > h1 br beween ar and eng
+Alfiyyah menu join items
+.....one minute course > correct h1 text
+.....some services and resources headers are not white

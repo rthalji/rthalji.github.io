@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>./</loc>
+  <lastmod>2020-02-07T08:12:08+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>./index.html</loc>
+  <lastmod>2020-02-07T08:12:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/course-list.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/riad-thalji-cv.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/news.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/videos.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/store.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/trainer-riad-thalji-profile.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/contact-trainer-riad-thalji.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/pmp-training.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/it-programming-courses.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/on-line-courses-pmp-programming.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/consultation-services.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/web-design-development.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/one-minute-course-pmp.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/pmp-practice-questions.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/pmp-process-game.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/wbs-example.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/context-level-diagram-example.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/mind-map-example.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rthalji.github.io/html-tutorial</loc>
+  <lastmod>2020-02-12T21:33:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./ar/grants.html</loc>
+  <lastmod>2020-02-07T08:13:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rthalji.github.io/adab</loc>
+  <lastmod>2020-02-07T08:12:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rthalji.github.io/adab</loc>
+  <lastmod>2020-02-12T21:04:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>./en/trainer-riad-thalji.html</loc>
+  <lastmod>2020-02-07T08:14:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/course-list.html</loc>
+  <lastmod>2020-02-07T08:14:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/riad-thalji-cv.html</loc>
+  <lastmod>2020-02-12T21:36:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/news.html</loc>
+  <lastmod>2020-02-07T08:14:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/videos.html</loc>
+  <lastmod>2020-02-07T08:14:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/store.html</loc>
+  <lastmod>2020-02-07T08:14:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/trainer-riad-thalji-profile.html</loc>
+  <lastmod>2020-02-07T08:14:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/contact-trainer-riad-thalji.html</loc>
+  <lastmod>2020-02-07T08:14:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/pmp-training.html</loc>
+  <lastmod>2020-02-07T08:14:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/it-programming-courses.html</loc>
+  <lastmod>2020-02-07T08:14:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/on-line-courses-pmp-programming.html</loc>
+  <lastmod>2020-02-07T08:14:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/consultation-services.html</loc>
+  <lastmod>2020-02-07T08:14:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/web-design-development.html</loc>
+  <lastmod>2020-02-07T08:14:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/one-minute-course-pmp.html</loc>
+  <lastmod>2020-02-07T08:14:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/pmp-practice-questions.html</loc>
+  <lastmod>2020-02-07T08:14:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/pmp-process-game.html</loc>
+  <lastmod>2020-02-07T08:14:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/wbs-example.html</loc>
+  <lastmod>2020-02-07T08:14:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/context-level-diagram-example.html</loc>
+  <lastmod>2020-02-07T08:14:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/mind-map-example.html</loc>
+  <lastmod>2020-02-07T08:14:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./en/grants.html</loc>
+  <lastmod>2020-02-07T08:14:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t2_structure.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t3_formatting_1_b.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t3_formatting_2_em.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t3_formatting_3_br.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t3_formatting_4_dir.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t3_formatting_5_div.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t3_formatting_6_h.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t3_formatting_7_hr.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t3_formatting_8_p.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t3_formatting_9_u.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t3_formatting_b1_comments.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/tb1_lists_1_olul.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/tb1_lists_2_nesting.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t4_colors_1_names.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t4_colors_2_codes.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t4_colors_3_bg.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t4_colors_4_bgimg.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t5_images.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t6_fonts.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t7_entities.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t8_head.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/t9_links.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/tb2_tables.html</loc>
+  <lastmod>2020-02-12T21:27:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./enh/tb3_forms.html</loc>
+  <lastmod>2020-02-12T21:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/zuhair.html</loc>
+  <lastmod>2020-02-07T08:12:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/aasha.html</loc>
+  <lastmod>2020-02-07T08:12:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/Tarafah.html</loc>
+  <lastmod>2020-02-07T08:12:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/amro.html</loc>
+  <lastmod>2020-02-07T08:12:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/antara.html</loc>
+  <lastmod>2020-02-07T08:12:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/emro.html</loc>
+  <lastmod>2020-02-07T08:12:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/hareth.html</loc>
+  <lastmod>2020-02-07T08:12:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/lubaid.html</loc>
+  <lastmod>2020-02-07T08:12:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/nabga.html</loc>
+  <lastmod>2020-02-07T08:12:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/obaid.html</loc>
+  <lastmod>2020-02-07T08:12:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/khansa.html</loc>
+  <lastmod>2020-02-07T08:12:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/shanfari.html</loc>
+  <lastmod>2020-02-07T08:12:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf02.html</loc>
+  <lastmod>2020-02-12T21:04:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf03.html</loc>
+  <lastmod>2020-02-12T21:04:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf04.html</loc>
+  <lastmod>2020-02-12T21:04:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf05.html</loc>
+  <lastmod>2020-02-12T21:04:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf06.html</loc>
+  <lastmod>2020-02-12T21:04:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf07.html</loc>
+  <lastmod>2020-02-12T21:04:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf08.html</loc>
+  <lastmod>2020-02-12T21:04:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf09.html</loc>
+  <lastmod>2020-02-12T21:04:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf10.html</loc>
+  <lastmod>2020-02-12T21:04:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf11.html</loc>
+  <lastmod>2020-02-12T21:04:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf12.html</loc>
+  <lastmod>2020-02-12T21:04:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf13.html</loc>
+  <lastmod>2020-02-12T21:04:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf14.html</loc>
+  <lastmod>2020-02-12T21:04:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf15.html</loc>
+  <lastmod>2020-02-12T21:04:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf16.html</loc>
+  <lastmod>2020-02-12T21:04:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf17.html</loc>
+  <lastmod>2020-02-12T21:04:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf18.html</loc>
+  <lastmod>2020-02-12T21:04:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf19.html</loc>
+  <lastmod>2020-02-12T21:04:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf20.html</loc>
+  <lastmod>2020-02-12T21:04:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf21.html</loc>
+  <lastmod>2020-02-12T21:04:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf22.html</loc>
+  <lastmod>2020-02-12T21:04:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf23.html</loc>
+  <lastmod>2020-02-12T21:04:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf24.html</loc>
+  <lastmod>2020-02-12T21:04:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf25.html</loc>
+  <lastmod>2020-02-12T21:04:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf26.html</loc>
+  <lastmod>2020-02-12T21:04:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf27.html</loc>
+  <lastmod>2020-02-12T21:04:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf28.html</loc>
+  <lastmod>2020-02-12T21:04:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf29.html</loc>
+  <lastmod>2020-02-12T21:04:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf30.html</loc>
+  <lastmod>2020-02-12T21:04:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf31.html</loc>
+  <lastmod>2020-02-12T21:04:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf32.html</loc>
+  <lastmod>2020-02-12T21:04:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf33.html</loc>
+  <lastmod>2020-02-12T21:04:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf34.html</loc>
+  <lastmod>2020-02-12T21:04:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf35.html</loc>
+  <lastmod>2020-02-12T21:04:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf36.html</loc>
+  <lastmod>2020-02-12T21:04:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf37.html</loc>
+  <lastmod>2020-02-12T21:04:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf38.html</loc>
+  <lastmod>2020-02-12T21:04:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf39.html</loc>
+  <lastmod>2020-02-12T21:04:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf40.html</loc>
+  <lastmod>2020-02-12T21:04:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf41.html</loc>
+  <lastmod>2020-02-12T21:04:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf42.html</loc>
+  <lastmod>2020-02-12T21:04:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf43.html</loc>
+  <lastmod>2020-02-12T21:04:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf44.html</loc>
+  <lastmod>2020-02-12T21:04:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf45.html</loc>
+  <lastmod>2020-02-12T21:04:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf46.html</loc>
+  <lastmod>2020-02-12T21:04:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf47.html</loc>
+  <lastmod>2020-02-12T21:04:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf48.html</loc>
+  <lastmod>2020-02-12T21:04:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf49.html</loc>
+  <lastmod>2020-02-12T21:04:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf50.html</loc>
+  <lastmod>2020-02-12T21:04:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf51.html</loc>
+  <lastmod>2020-02-12T21:04:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf52.html</loc>
+  <lastmod>2020-02-12T21:04:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf53.html</loc>
+  <lastmod>2020-02-12T21:04:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf54.html</loc>
+  <lastmod>2020-02-12T21:04:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf55.html</loc>
+  <lastmod>2020-02-12T21:04:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf56.html</loc>
+  <lastmod>2020-02-12T21:04:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf57.html</loc>
+  <lastmod>2020-02-12T21:04:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf58.html</loc>
+  <lastmod>2020-02-12T21:04:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf59.html</loc>
+  <lastmod>2020-02-12T21:04:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf60.html</loc>
+  <lastmod>2020-02-12T21:04:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf61.html</loc>
+  <lastmod>2020-02-12T21:04:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf62.html</loc>
+  <lastmod>2020-02-12T21:04:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf63.html</loc>
+  <lastmod>2020-02-12T21:04:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf64.html</loc>
+  <lastmod>2020-02-12T21:04:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf65.html</loc>
+  <lastmod>2020-02-12T21:04:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf66.html</loc>
+  <lastmod>2020-02-12T21:04:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf67.html</loc>
+  <lastmod>2020-02-12T21:04:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf68.html</loc>
+  <lastmod>2020-02-12T21:04:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf69.html</loc>
+  <lastmod>2020-02-12T21:04:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf70.html</loc>
+  <lastmod>2020-02-12T21:04:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf71.html</loc>
+  <lastmod>2020-02-12T21:04:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf72.html</loc>
+  <lastmod>2020-02-12T21:04:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf73.html</loc>
+  <lastmod>2020-02-12T21:04:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf74.html</loc>
+  <lastmod>2020-02-12T21:04:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf75.html</loc>
+  <lastmod>2020-02-12T21:04:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf76.html</loc>
+  <lastmod>2020-02-12T21:04:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf77.html</loc>
+  <lastmod>2020-02-12T21:04:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf78.html</loc>
+  <lastmod>2020-02-12T21:04:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf79.html</loc>
+  <lastmod>2020-02-12T21:04:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf80.html</loc>
+  <lastmod>2020-02-12T21:04:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/alfiyyah/alf81.html</loc>
+  <lastmod>2020-02-12T21:04:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>./adab/summary/ZuhairLI.html</loc>
+  <lastmod>2020-02-07T08:12:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>./adab/summary/AlA3shaLI.html</loc>
+  <lastmod>2020-02-07T08:12:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>./adab/summary/TarafahLI.html</loc>
+  <lastmod>2020-02-07T08:12:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>./adab/summary/QulthoomLI.html</loc>
+  <lastmod>2020-02-07T08:12:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>./adab/summary/AntarahLI.html</loc>
+  <lastmod>2020-02-07T08:12:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>./adab/summary/EmroQaisLI.html</loc>
+  <lastmod>2020-02-07T08:12:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>./adab/summary/HarethLI.html</loc>
+  <lastmod>2020-02-07T08:12:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>./adab/summary/LubaidLI.html</loc>
+  <lastmod>2020-02-07T08:12:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>./adab/summary/AlNabeghaLI.html</loc>
+  <lastmod>2020-02-07T08:12:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>./adab/summary/ObaidLI.html</loc>
+  <lastmod>2020-02-07T08:12:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
