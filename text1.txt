@@ -1,4 +1,0 @@
-PMP, HTML CSS JavaScript jQuery C# C++ Java SQL Server Oracle ASP.Net
-PMP, HTML, CSS, JavaScript, jQuery, C#, C++, Java SQL Server, Oracle, ASP.Net, bootstrap, SCADA
-Jordan, Oman, KSA, Saudi Arabia, Kuwait, Qatar, UAE, Iraq, Libya, Yemen, Kwala Lumpur, Paris
-عمان، الأردن، مسقط، سلطنة عمان، الرياض، جدة، السعودية، الكويت، قطر، الإمارات، العراق، ليبيا، اليمن، كوالا لمبور و باريس
